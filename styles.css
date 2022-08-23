@@ -1,0 +1,66 @@
+* {
+    background-color: #F3AC3C;
+    position: absolute;
+  }
+  .circles {
+    border-radius: 50%;
+  }
+  .blue {
+    background: #1A4341;
+  }
+  .green {
+    background: #998235;
+  }
+  .guitar-bottom {
+    width: 120px;
+    height: 120px;
+    margin: 90px 0 0 38px;
+  }
+  
+   .guitar-top {
+    width: 100px;
+    height: 100px;
+    margin: 100px 110px;
+  }
+  
+  .sm-circle {
+    width: 40px;
+    height: 40px;
+    margin: 125px 135px;
+    border: 5px solid #F3AC3C;
+  }
+  
+  .bridge {
+    width: 10px;
+    height: 40px;
+    margin: 130px 80px;
+    border-radius: 5px;
+  }
+
+  .neck {
+    width: 120px;
+    height: 20px;
+    margin: 140px 200px;
+    z-index: -1;
+  }
+
+  .head {
+    width: 40px;
+    height: 30px;
+    margin: 135px 305px;
+    border-radius: 10px;
+  }
+
+  .frets {
+    width: 20px;
+    height: 4px;
+    border-radius: 5px;
+  }
+
+  .f1 {
+    margin: 144px 315px;
+  }
+
+  .f2 {
+    margin: 152px 315px;
+  }
