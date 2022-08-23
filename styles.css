@@ -64,3 +64,11 @@
   .f2 {
     margin: 152px 315px;
   }
+
+  h1 {
+    font-family: verdana, sans-serif;
+    font-size: 20px;
+    margin: 250px 100px;
+    width: 200px;
+    color: #1A4341;
+  }
